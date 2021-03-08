@@ -1,5 +1,6 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Analyzing the the Diffusions of Various Forms of Misinformation on Reddit
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+Misinformation has taken social media by storm. It reaches every corner of these kinds of platforms, from topics like the existence of aliens or even contesting the outcomes of a presidential election. The consequences of such viral misleading content is disruptive, and we are just beginning to see how devastating these effects can be in real time. We look into the diffusion of misinformation on Reddit, specifically how users within specific subreddits behave and interact with one another. We look at three categories of subreddits that we had selected: ones regarding scientific information, political misinformation, and urban myth misinformation. We analyze these three categories, analyzing how they intersect with each other or the lack thereof. We utilize user polarities, which is defined as how “loyal” a user may be to one category of subreddits compared to the other two categories on a number scale of 0 to 1. We conclude that there is the existence of echo chambers in the categories that we had looked at, and that the users within these respective categories behave differently from one another.
+
